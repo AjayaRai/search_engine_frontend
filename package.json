@@ -37,7 +37,8 @@
     ]
   },
   "devDependencies": {
-    "react-router-dom": "^5.2.0"
+    "react-router-dom": "^5.2.0",
+    "axios": "^0.21.1"
   },
   "proxy": "http://localhost:9200"
 }
